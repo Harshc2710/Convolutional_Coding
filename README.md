@@ -1,6 +1,6 @@
 # 🔄 Convolutional Code Simulation & Performance Analysis
 
-This project implements and analyzes **convolutional coding** using **MATLAB**, focusing on **hard** and **soft decision Viterbi decoding**. It explores how different constraint lengths and generator polynomials affect Bit Error Rate (BER), Frame Error Rate (FER), and Frame Success Rate under varying noise levels.
+This project uses MATLAB to implement and analyze convolutional coding, particularly focusing on hard and soft decision Viterbi decoding. It investigates how varying constraint lengths and generator polynomials influence Bit Error Rate (BER), Frame Error Rate (FER), and Frame Success Rate under different noise levels.
 
 ---
 
